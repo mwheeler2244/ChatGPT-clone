@@ -8,7 +8,7 @@ A sleek and responsive ChatGPT clone built with **Next.js**, **TypeScript**, and
 
 ## 📸 Preview
 
-![ChatGPT Clone Screenshot](./public/screenshot.png)  
+![ChatGPT Clone Screenshot](chatgptss.png)  
 *Customize this with a screenshot of your app.*
 
 ---
