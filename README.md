@@ -4,7 +4,7 @@ A sleek and responsive ChatGPT clone built with **Next.js**, **TypeScript**, and
 
 ## 🚀 Live Demo
 
-👉 [View Live on Vercel](https://your-vercel-url.vercel.app)
+👉 [View Live on Vercel]([https://your-vercel-url.vercel.app](https://vercel.com/mikes-projects-39d4e706/chat-gpt-clone))
 
 ## 📸 Preview
 
