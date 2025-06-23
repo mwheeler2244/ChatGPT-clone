@@ -25,8 +25,7 @@ A sleek and responsive ChatGPT clone built with **Next.js**, **TypeScript**, and
 - Chat interface inspired by ChatGPT
 - Responsive design for mobile and desktop
 - Typing indicator
-- Dark mode (if implemented)
-- Easy API integration for AI responses
+
 
 ---
 
